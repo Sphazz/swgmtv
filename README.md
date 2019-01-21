@@ -4,7 +4,7 @@ Image collection of all mobile templates using MTG mobiles.
 
 ### To Use:
 - Visit: https://swgsremu.com/swgmtv/
-- Desktop Application: [Download](https://mega.nz/#!qLZ2kaQR!65rHPE321t-7SjZk6OazCep7uDhyK4g2ZaBkH6XVs1Q) (~193mb)
+- Desktop Application: [Download](https://mega.nz/#!3bJkVKgB!EJPZJBAw_QLozdBRJr3ZvWIVNAWkYwUnTBrVbPDKmxg) (~193mb)
 - Or [download](https://github.com/Sphazz/swgmtv/archive/master.zip) for better access. Extract, then open index.html in a web brower. (~200mb)
 
 #### Tools Used:
